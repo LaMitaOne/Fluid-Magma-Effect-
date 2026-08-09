@@ -8,6 +8,7 @@ One of the things i am playing around ...
 Its reacting on your mouse already, but even without getting touched its always wobbling around.   
 I call it wobblealive :D   
 Low cpu usage so far, on that windowsize  around 5%, smaller like button size its around 0-0,5 %    
+(no, not on m3 dualcore :D on desktop)
     
 Even without any animation its always looking like its in motion ;)       
 > 💡 **Fun Fact:** The pulsing, expanding motion you see in the static image isn't a GIF
