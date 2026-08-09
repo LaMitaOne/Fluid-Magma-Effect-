@@ -7,4 +7,4 @@ One of the things i am playing around ...
     
 ... and someday when my internet speed gets higher than 2kb per sec....i can upload it maybe too  ^^    
     
-Sample project and exe included then... :P    
+Sample project (and exe) included (then... :P atm no way)    
